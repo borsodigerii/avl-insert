@@ -4,7 +4,7 @@ namespace AVL_Insert
 	public class Node
 	{
 
-
+		 
 		public Node()
 		{
 		}
