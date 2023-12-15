@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVL_Insert", "AVL_Insert\AVL_Insert.csproj", "{441EB2EF-CDDB-4FC9-93AD-C6889F89E43A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVL_Insert_UTEST", "AVL_Insert_UTEST\AVL_Insert_UTEST.csproj", "{30AD4C3C-7E11-4AAC-A9E7-200ACAB22139}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{441EB2EF-CDDB-4FC9-93AD-C6889F89E43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{441EB2EF-CDDB-4FC9-93AD-C6889F89E43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{441EB2EF-CDDB-4FC9-93AD-C6889F89E43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AD4C3C-7E11-4AAC-A9E7-200ACAB22139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AD4C3C-7E11-4AAC-A9E7-200ACAB22139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AD4C3C-7E11-4AAC-A9E7-200ACAB22139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AD4C3C-7E11-4AAC-A9E7-200ACAB22139}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
